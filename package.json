@@ -1,0 +1,11 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustavo",
+  "license": "MIT",
+  "dependencies": {
+    "dash": "^3.18.1",
+    "esm": "^3.2.25"
+  }
+}
